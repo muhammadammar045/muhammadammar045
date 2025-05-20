@@ -10,7 +10,7 @@
 MERN stack developer with 2+ years of experience building scalable web applications. I focus on writing clean, efficient code and optimizing performance. My expertise includes responsive design, cross-browser compatibility, and collaborative teamwork to deliver seamless user experiences.
 
 - 🌍 Based in Peshawar, Pakistan
-- 💼 Currently working as a MERN Stack Engineer at Tech Creator, Swabi
+- 💼 Currently working as a MERN Stack Engineer at Deventia, Islamabad
 - 📧 Email: ammardata122@gmail.com
 
 ## 🛠️ Tech Stack
