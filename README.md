@@ -7,7 +7,15 @@
 
 ## 👨‍💻 About Me
 
-MERN stack developer with 2+ years of experience building scalable web applications. I focus on writing clean, efficient code and optimizing performance. My expertise includes responsive design, cross-browser compatibility, and collaborative teamwork to deliver seamless user experiences.
+🚀 Full Stack Enthusiast | MERN Specialist | Coding Fan 🚀
+
+Hello! I'm a Full Stack Developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). My passion for coding and talent for problem-solving inspire me to create effective, easy-to-use, and adaptable web applications that make a difference.
+
+I've enjoyed working on a variety of projects, from small startups to large enterprise solutions. My strong JavaScript skills and knowledge of the latest web technologies allow me to tackle tough challenges and deliver excellent results.
+
+Apart from coding, I enjoy discovering new technologies and collaborating with fellow developers. I believe in the power of teamwork and ongoing growth. So, let's connect and make something amazing together!
+
+📫 Reach out to me on GitHub or any other platform, and let's bring your ideas to life!
 
 - 🌍 Based in Peshawar, Pakistan
 - 💼 Currently working as a MERN Stack Engineer at Deventia, Islamabad
